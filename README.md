@@ -10,7 +10,9 @@ I do love car restoration and side projects, the ones I am most proud of:
 - Teamed up with my dad to Camperize a Van, which is now my go-to for traveling around
 
 🌱 I’m constantly learning something new, have discovered anything intersting? Tell me about it!
+
 👯 I’m looking an Open-Source project to collaborate. Need help? reach me!
+
 💬 Ask me about Scuba Diving, Car Restoration, Computer Science, Software Development and Good Practices
 
 ## Visit my Website at https://ezequielcarrizo.com/
